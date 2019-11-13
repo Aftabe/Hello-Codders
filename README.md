@@ -1,2 +1,2 @@
 # Hello-Codders
-Just a new repository as a testing 
+Just a new repository for a testing 
